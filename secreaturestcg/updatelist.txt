@@ -1,8 +1,0 @@
-secreaturestcg	07-22-21
-plugins/secreaturestcg/plugininfo.txt	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/plugininfo.txt?token=AU5Y4KO2SBEY4W3VUNID57TA7DPPO	754667
-plugins/secreaturestcg/sets/carddata.txt	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/carddata.txt.txt?token=AU5Y4KJN3JZA6OPNVGPRM3LA7DQFC	893467
-plugins/secreaturestcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/packs/packdefinitions1.xml?token=AU5Y4KJT4JKNSTEDDN2ITW3A7DQQY	125674
-plugins/secreaturestcg/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/setimages/general/cardback.png?token=AU5Y4KIE6YWDZNK45BUSD7DA7DRNK	157341
-
-
-
