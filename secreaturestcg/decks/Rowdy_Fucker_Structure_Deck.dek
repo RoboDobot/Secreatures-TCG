@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<game>secreaturestcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="img38.png">Slime Briefcase</name><set>Base</set></card>
+		<card><name id="img32.png">Dumb Bell</name><set>Base</set></card>
+		<card><name id="img32.png">Dumb Bell</name><set>Base</set></card>
+		<card><name id="img24.png">Eye-o-War</name><set>Base</set></card>
+		<card><name id="img37.png">Snipe</name><set>Base</set></card>
+		<card><name id="img34.png">!Thrash</name><set>Base</set></card>
+		<card><name id="img34.png">!Thrash</name><set>Base</set></card>
+		<card><name id="img36.png">Trap Portal</name><set>Base</set></card>
+		<card><name id="img41.png">The Mines</name><set>Base</set></card>
+		<card><name id="img22.png">Max Revive</name><set>Base</set></card>
+		<card><name id="img30.png">Green Lotus</name><set>Base</set></card>
+		<card><name id="img20.png">Trans Beam</name><set>Base</set></card>
+		<card><name id="img26.png">!Dissolve</name><set>Base</set></card>
+		<card><name id="img39.png">Mining Party</name><set>Base</set></card>
+		<card><name id="img0.png">Twoopedy</name><set>Base</set></card>
+		<card><name id="img0.png">Twoopedy</name><set>Base</set></card>
+		<card><name id="img1.png">Amorphous Blob</name><set>Base</set></card>
+		<card><name id="img1.png">Amorphous Blob</name><set>Base</set></card>
+		<card><name id="img2.png">Juvenile Dog</name><set>Base</set></card>
+		<card><name id="img6.png">Slime Boi</name><set>Base</set></card>
+		<card><name id="img6.png">Slime Boi</name><set>Base</set></card>
+		<card><name id="img7.png">Questing Slime</name><set>Base</set></card>
+		<card><name id="img8.png">Slime Knight</name><set>Base</set></card>
+		<card><name id="img8.png">Slime Knight</name><set>Base</set></card>
+		<card><name id="img11.png">Slimurai</name><set>Base</set></card>
+		<card><name id="img11.png">Slimurai</name><set>Base</set></card>
+		<card><name id="img16.png">Gigaslime</name><set>Base</set></card>
+		<card><name id="img17.png">Slimexodia, the Forbidden Slime</name><set>Base</set></card>
+		<card><name id="img13.png">Megaslime</name><set>Base</set></card>
+		<card><name id="img42.png">Level Up!</name><set>Base</set></card>
+	</superzone>
+	<superzone name="Recipe Book">
+		<card><name id="img19.png">Omegaslime</name><set>Base</set></card>
+	</superzone>
+</deck>

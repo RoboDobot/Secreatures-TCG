@@ -1,0 +1,21 @@
+<packdefinitions version="1.0">
+
+<pack>
+     <packtitle>Based Set Booster Pack</packtitle>
+     <packimage>samplebooster</packimage>
+     <packformat>standard</packformat>
+     <packkind>booster</packkind>
+     <packcommoncrit><field>Set</field><eval>IS</eval><data>Based</packcommoncrit>
+     <chance>
+          <prob>90</prob>
+          <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare-Dioactive</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Unstable</data></crit></kind>
+          <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Inert</data></crit></kind>
+     </chance>
+     <chance>
+          <prob>10</prob>
+          <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Critical NucleaRare</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Unstable</data></crit></kind>
+          <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Inert</data></crit></kind>
+     </chance>
+</pack>

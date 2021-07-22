@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<game>secreaturestcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="img35.png">!Dab</name><set>Base</set></card>
+		<card><name id="img35.png">!Dab</name><set>Base</set></card>
+		<card><name id="img29.png">Alting</name><set>Base</set></card>
+		<card><name id="img1.png">Amorphous Blob</name><set>Base</set></card>
+		<card><name id="img1.png">Amorphous Blob</name><set>Base</set></card>
+		<card><name id="img21.png">Auto Hot Key</name><set>Base</set></card>
+		<card><name id="img40.png">Booru Kingdom</name><set>Base</set></card>
+		<card><name id="img31.png">Co1nfl1p</name><set>Base</set></card>
+		<card><name id="img23.png">Dimension Inversion</name><set>Base</set></card>
+		<card><name id="img10.png">DoppelGangster</name><set>Base</set></card>
+		<card><name id="img10.png">DoppelGangster</name><set>Base</set></card>
+		<card><name id="img33.png">Execution Gene</name><set>Base</set></card>
+		<card><name id="img33.png">Execution Gene</name><set>Base</set></card>
+		<card><name id="img4.png">Froog the Jam</name><set>Base</set></card>
+		<card><name id="img4.png">Froog the Jam</name><set>Base</set></card>
+		<card><name id="img14.png">Green Eyes Slime Dragon</name><set>Base</set></card>
+		<card><name id="img15.png">JPEG Green Eyes Slime Dragon</name><set>Base</set></card>
+		<card><name id="img9.png">JPEG Slime Knight</name><set>Base</set></card>
+		<card><name id="img9.png">JPEG Slime Knight</name><set>Base</set></card>
+		<card><name id="img3.png">Living Mist</name><set>Base</set></card>
+		<card><name id="img22.png">Max Revive</name><set>Base</set></card>
+		<card><name id="img27.png">Polymixization</name><set>Base</set></card>
+		<card><name id="img5.png">Slimaid</name><set>Base</set></card>
+		<card><name id="img12.png">Slime Magician</name><set>Base</set></card>
+		<card><name id="img37.png">Snipe</name><set>Base</set></card>
+		<card><name id="img28.png">The Shapeshifter</name><set>Base</set></card>
+		<card><name id="img36.png">Trap Portal</name><set>Base</set></card>
+		<card><name id="img36.png">Trap Portal</name><set>Base</set></card>
+		<card><name id="img10A.png">The Midnight Goo</name><set>Base</set></card>
+		<card><name id="img25.png">Copypasta</name><set>Base</set></card>
+	</superzone>
+	<superzone name="Recipe Book">
+		<card><name id="img18.png">Five Headed Green Eyes Ultimate Slimetrosity</name><set>Base</set></card>
+	</superzone>
+</deck>

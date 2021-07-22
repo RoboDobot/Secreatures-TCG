@@ -1,0 +1,22 @@
+<deck version="0.8">
+	<meta>
+		<game>secreaturestcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">Wild Slime Girl</name><set>Base</set></card>
+		<card><name id="">SlimeGirl</name><set>Base</set></card>
+		<card><name id="">SlimeGirl</name><set>Base</set></card>
+		<card><name id="">SlimeGirl</name><set>Base</set></card>
+		<card><name id="">Gooardian of the Gooasis</name><set>Base</set></card>
+		<card><name id="">Goo-L-Aid Man</name><set>Base</set></card>
+		<card><name id="">Cy-hole-ps</name><set>Base</set></card>
+		<card><name id="">Don SlimeBall</name><set>Base</set></card>
+	</superzone>
+</deck>

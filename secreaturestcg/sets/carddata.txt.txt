@@ -1,0 +1,201 @@
+Name	Set	ImageFile	Rarity	S. Lvl	Category	Type
+Nico Tina	Based	img0.png	Inert	1	Effect	Slime
+The E. Slithers	Based	img1.png	Inert	1	Effect	Slime
+Twoopedy	Based	img2.png	Inert	2	Effect	Slime
+Amorphous Blob	Based	img3.png	Inert	2	AbNormal	Slime
+Juvenile Dog	Based	img4.png	Inert	2	Effect	Slime
+Angelatin	Based	img5.png	Inert	3	Effect	Slime
+Living Mist	Based	img6.png	Inert	3	Effect	Slime
+Froog the Jam	Based	img7.png	Inert	3	AbNormal	Slime
+Slimel, the Slimaid	Based	img8.png	Inert	3	Effect	Slime
+SlimeBall Jr.	Based	img9.png	Inert	3	Effect	Slime
+Slime Boi	Based	img10.png	Inert	3	AbNormal	Slime
+Questing Slime	Based	img11.png	Inert	3	Effect	Slime
+Slimermaid's Acolyte	Based	img12.png	Inert	4	Effect	Slime
+JPEG Slime Knight	Based	img13.png	Inert	4	Effect	Slime
+Slime Knight	Based	img14.png	Inert	4	AbNormal	Slime
+Doopedy Shmoople	Based	img15.png	Unstable	4	Effect	Slime
+Minecraft Slime	Based	img16.png	Inert	4	Effect	Slime
+SlimeEye	Based	img17.png	Inert	4	Effect	Slime
+DoppelGangster	Based	img18.png	Inert	4	Effect	Slime
+Manos, the Battling Blob	Based	img19.png	Inert	4	Effect	Slime
+The Midnight Goo	Based	img20.png	Inert	4	Effect	Slime
+Slimeurai	Based	img21.png	Unstable	4	Effect	Slime
+SlimeBall	Based	img22.png	Unstable	5	Effect	Slime
+Magma Cube	Based	img23.png	Unstable	5	Effect	Slime
+DinoSlime Raptor	Based	img24.png	Unstable	5	Effect	Slime
+SlimeGirl	Based	img25.png	Unstable	6	Effect	Slime
+Wild SlimeGirl	Based	img26.png	Unstable	6	Effect	Slime
+JPEG SlimeGirl	Based	img27.png	Unstable	6	Effect	Slime
+Gooardian of the Gooasis	Based	img28.png	Unstable	6	Effect	Slime
+Smog Genie	Based	img29.png	Unstable	7	Effect	Slime
+DinoSlime Rex	Based	img30.png	Unstable	7	Effect	Slime
+Don SlimeBall	Based	img31.png	Unstable	7	Effect	Slime
+Slime Magician	Based	img32.png	Unstable	7	Effect	Slime
+Megaslime	Based	img33.png	Unstable	7	Effect	Slime
+Slimefield	Based	img34.png	Rare-Dioactive	8	Effect	Slime
+Slime 8 Ball	Based	img35.png	Unstable	8	Effect	Slime
+Armed Megaslime	Based	img36.png	Rare-Dioactive	8	Mix	Slime
+Rainboa Constrictor	Based	img37.png	Rare-Dioactive	9	Effect	Slime
+The Dragonsaur	Based	img38.png	Rare-Dioactive	9	AbNormal	Slime
+The Legendary Slimermaid	Based	img39.png	Super Critical NucleaRare	9	Effect	Slime
+Sourpuss	Based	img40.png	Rare-Dioactive	9	Effect	Slime
+Green Eyes Slime Dragon	Based	img41.png	Rare-Dioactive	10	AbNormal	Slime
+JPEG Green Eyes Slime Dragon	Based	img42.png	Rare-Dioactive	10	Effect	Slime
+Gigaslime	Based	img43.png	Rare-Dioactive	10	Effect	Slime
+Beholdslime	Based	img44.png	Rare-Dioactive	11	Effect	Slime
+Esulimeron	Based	img45.png	Rare-Dioactive	11	Effect	Slime
+Archangelatin	Based	img46.png	Super Critical NucleaRare	11	Effect	Slime
+Slimexodia, the Forbidden Slime	Based	img47.png	Super Critical NucleaRare	12	Effect	Slime
+Five Headed Green Eyes Slime Monstrosity	Based	img48.png	Super Critical NucleaRare	12	Mix	Slime
+Omegaslime	Based	img49.png	Super Critical NucleaRare	12	Mix	Slime
+Sewer Spook	Based	img50.png	Inert	1	AbNormal	Nega
+Ghost Sord	Based	img51.png	Inert	2	Effect	Nega
+Negaslimeoid	Based	img52.png	Inert	1	Effect	Nega
+Negageist	Based	img53.png	Inert	2	Effect	Nega
+Spoopy Ghost	Based	img54.png	Unstable	3	Effect	Nega
+Eldlisludge Horror	Based	img55.png	Unstable	4	Effect	Nega
+Spooky Scary Skeleton	Based	img56.png	Unstable	5	Effect	Nega
+Nega SlimeGirl	Based	img57.png	Unstable	6	Effect	Nega
+Spooky Scary Skeletons	Based	img58.png	Rare-Dioactive	10	Mix	Nega
+The Leech King	Based	img59.png	Rare-Dioactive	11	Effect	Nega
+The Negaslime, Eclipse of Death	Based	img60.png	Super Critical NucleaRare	12	Effect	Nega
+KuriPou	Based	img61.png	Inert	1	Effect	Poudrin
+Slime-arble	Based	img62.png	Inert	1	Effect	Poudrin
+Jewelbee	Based	img63.png	Unstable	1	Effect	Poudrin
+Butterjewel	Based	img64.png	Unstable	1	Effect	Poudrin
+Jewelsquito	Based	img65.png	Unstable	1	Effect	Poudrin
+Beetlejewel	Based	img66.png	Unstable	1	Effect	Poudrin
+Ladyjewel	Based	img67.png	Unstable	1	Effect	Poudrin
+The Ultimate Jewelbug	Based	img68.png	Rare-Dioactive	1	Mix	Poudrin
+Living Bottle	Based	img69.png	Inert	2	Effect	Poudrin
+Prism (No Relation)	Based	img70.png	Inert	3	Effect	Poudrin
+Living Armor	Based	img71.png	Inert	3	Effect	Poudrin
+Poudrin-Tooth Tiger	Based	img72.png	Inert	4	AbNormal	Poudrin
+Living Shield	Based	img73.png	Inert	4	Effect	Poudrin
+Living Molotov	Based	img74.png	Unstable	5	Effect	Poudrin
+Giant Poudrin Crab	Based	img75.png	Unstable	5	AbNormal	Poudrin
+Gooulder	Based	img76.png	Rare-Dioactive	7	Effect	Poudrin
+Titanic Anime Girl of Doom	Based	img77.png	Rare-Dioactive	8	Effect	Poudrin
+Mammoslime	Based	img78.png	Rare-Dioactive	8	Effect	Poudrin
+The Hardened Shoguslime	Based	img79.png	Rare-Dioactive	8	Effect	Poudrin
+WHAM B.A.M.	Based	img80.png	Rare-Dioactive	10	Effect	Poudrin
+Regiwar	Based	img81.png	Super Critical NucleaRare	11	Effect	Poudrin
+Turt	Based	img82.png	Inert	1	Effect	Mutant
+Just a Rat with a Phd	Based	img83.png	Inert	2	Effect	Mutant
+Fish Sord	Based	img84.png	Inert	2	Effect	Mutant
+Pissboi	Based	img85.png	Inert	2	Effect	Mutant
+Radioactive Frog	Based	img86.png	Inert	3	Effect	Mutant
+S.J.W.	Based	img87.png	Unstable	3	Effect	Mutant
+Texas Red	Based	img88.png	Unstable	4	AbNormal	Mutant
+Arm Dragon	Based	img89.png	Inert	4	Effect	Mutant
+Creepah	Based	img90.png	Unstable	4	Effect	Mutant
+Elemental Hero Slimerman	Based	img91.png	Inert	4	Effect	Mutant
+Slime of Greed	Based	img92.png	Unstable	4	Effect	Mutant
+Angered Striding Sphinter	Based	img93.png	Unstable	5	Effect	Mutant
+Desert Raider	Based	img94.png	Unstable	6	AbNormal	Mutant
+Blade Bustah Edgedude	Based	img95.png	Rare-Dioactive	6	Effect	Mutant
+Dripping Cactus	Based	img96.png	Unstable	7	Effect	Mutant
+Big Ass Snake	Based	img97.png	Rare-Dioactive	8	Effect	Mutant
+The Slimera	Based	img98.png	Rare-Dioactive	8	Effect	Mutant
+9-Tails Awoo Girl	Based	img99.png	Rare-Dioactive	9	Effect	Mutant
+Not-So-Smol, Mimic Cutie	Based	img100.png	Rare-Dioactive	9	Effect	Mutant
+The Slimedealer	Based	img101.png	Rare-Dioactive	10	Effect	Mutant
+Embiggened Turt	Based	img102.png	Super Critical NucleaRare	11	Effect	Mutant
+GooWheels	Based	img103.png	Inert	1	Effect	Construct
+Robot Sord	Based	img104.png	Inert	2	Effect	Construct
+Slime in a Bottle	Based	img105.png	Unstable	3	Effect	Construct
+Fridgegrob	Based	img106.png	Inert	4	Effect	Construct
+Ovengrob	Based	img107.png	Inert	4	Effect	Construct
+Drillgrob	Based	img108.png	Inert	4	Effect	Construct
+Vacuumgrob	Based	img109.png	Inert	4	Effect	Construct
+Toxic Fumes Lamp	Based	img110.png	Inert	4	Effect	Construct
+Helislime	Based	img111.png	Unstable	4	Effect	Construct
+Unnerving Fighting Object	Based	img112.png	Unstable	4	Effect	Construct
+Slime Machine	Based	img113.png	Unstable	5	Effect	Construct
+Unnerving Fighting Operator	Based	img114.png	Unstable	6	Effect	Construct
+Slimeborg	Based	img115.png	Unstable	6	Effect	Construct
+Goo-L-Aid Man	Based	img116.png	Rare-Dioactive	7	Effect	Construct
+Green Golem	Based	img117.png	Unstable	8	Effect	Construct
+SludgeRacer	Based	img118.png	Rare-Dioactive	9	Effect	Construct
+N911, The Towers that will dig up the Sewers	Based	img119.png	Rare-Dioactive	9	Effect	Construct
+Experiment Shillhelmet	Based	img120.png	Rare-Dioactive	11	Effect	Construct
+Twin Tower Battleship F911	Based	img121.png	Rare-Dioactive	11	Effect	Construct
+Super Robo F.N. 911	Based	img122.png	Rare-Dioactive	11	Mix	Construct
+Endless War!?	Based	img123.png	Super Critical NucleaRare	12	Effect	Construct
+Trans Beam	Based	img124.png	Unstable	-	Action 	Action Card
+Auto Hot Key	Based	img125.png	Unstable	-	Action	Action Card
+Stoopid Burial	Based	img126.png	Inert	-	Action	Action Card
+Max Revive	Based	img127.png	Unstable	-	Action	Action Card
+Endless Rock	Based	img128.png	Inert	-	Action	Action Card
+The Last Duel!1!	Based	img129.png	Unstable	-	Action	Action Card
+Dimension Inversion	Based	img130.png	Inert	-	Action	Action Card
+Killing Effects with your lungs	Based	img131.png	Unstable	-	Action	Action Card
+Eye-o-War	Based	img132.png	Unstable	-	Action	Action Card
+Copypasta	Based	img133.png	Inert	-	Action	Action Card
+!Dissolve	Based	img134.png	Inert	-	Action	Action Card
+!CreateSlimeoid	Based	img135.png	Unstable	-	Action	Action Card
+Booru Kingdom	Based	img136.png	Unstable	-	Action	Event
+The Dojo	Based	img137.png	Unstable	-	Action	Event
+The Sewers	Based	img138.png	Unstable	-	Action	Event
+Coleslaw	Based	img139.png	Inert	-	Action	Power Up
+Polymixization	Based	img140.png	Inert	-	Action	Action Card
+The Shapeshifter	Based	img141.png	Inert	-	Action	Action Card
+Alting	Based	img142.png	Unstable	-	Action	Action Card
+The Nega Moon	Based	img143.png	Rare-Dioactive	-	Action	Event
+The Gooasis	Based	img144.png	Unstable	-	Action	Event
+The Lynching Pole	Based	img145.png	Unstable	-	Action	Event
+Green Lotus	Based	img146.png	Unstable	-	Action	Action
+A Bottle	Based	img147.png	Inert	-	Action	Object
+Slime Sealing Gourd	Based	img148.png	Unstable	-	Action	Object
+Smuggled Whisky Bottle	Based	img149.png	Inert	-	Action	Object
+Lasagna	Based	img150.png	Inert	-	Action	Power Up
+Level Up!	Based	img151.png	Unstable	-	Action	Action Card
+Slimemorphosis	Based	img152.png	Inert	-	Action	Action Card
+Lesbianism	Based	img153.png	Unstable	-	Action	Action Card
+Polonium Path	Based	img154.png	Rare-Dioactive	-	Action	Event
+It's Raining...	Based	img155.png	Inert	-	Action	Event
+Slimengine	Based	img156.png	Inert	-	Action	Object
+Double Towers	Based	img157.png	Unstable	-	Action	Event
+Co1nfl1p	Based	img158.png	Rare-Dioactive	-	Action	Action Card
+Dumbell	Based	img159.png	Inert	-	Action	Power Up
+Execution Gene	Based	img160.png	Inert	-	Action	Power Up
+!Thrash	Based	img161.png	Unstable	-	Action	Quickie
+!Dab	Based	img162.png	Unstable	-	Action	Quickie
+Trap Portal	Based	img163.png	Unstable	-	Action	Action Card
+Snipe	Based	img164.png	Rare-Dioactive	-	Action	Quickie
+Slime Briefcase	Based	img165.png	Rare-Dioactive	-	Action	Action Card
+Mining Party	Based	img166.png	Inert	-	Action	Action Card
+The Mines	Based	img167.png	Unstable	-	Action	Event
+!Recycle	Based	img168.png	Inert	-	Action	Object
+!Takedown	Based	img169.png	Rare-Dioactive	-	Action	Quickie
+Robo Armor	Based	img170.png	Unstable	-	Action	Power Up
+!Bottleslimeoid	Based	img171.png	Unstable	-	Action	Quickie
+!Barterall	Based	img172.png	Unstable	-	Action	Action Card
+!Piss	Based	img173.png	Inert	-	Action	Action Card
+My Child!	Based	img174.png	Inert	-	Action	Quickie
+The Catacombs	Based	img175.png	Unstable	-	Action	Event
+Farming	Based	img176.png	Inert	-	Action	Object
+Plutonium Chicken	Based	img177.png	Unstable	-	Action	Action Card
+Double Stuffed Crust	Based	img178.png	Unstable	-	Action	Action Card
+Slime Glob	Based	img179.png	Inert	-	Action	Action Card
+Wreck-It-Crocsium	Based	img180.png	Rare-Dioactive	-	Action	Action Card
+The Outskirts	Based	img181.png	Inert	-	Action	Event
+!Hurl	Based	img182.png	Inert	-	Action	Action Card
+!ARREST	Based	img183.png	Rare-Dioactive	-	Action	Quickie
+Exploiting the System	Based	img184.png	Rare-Dioactive	-	Action	Action Card
+The Door Experience	Based	img185.png	Unstable	-	Action	Event
+Quantum Somersault	Based	img186.png	Rare-Dioactive	-	Action	Quickie
+Kickoff Killshot	Based	img187.png	Rare-Dioactive	-	Action	Quickie
+Embiggantamax	Based	img188.png	Unstable	-	Action	Action Card
+Do The Ephraim	Based	img189.png	Inert	-	Action	Action Card
+Cyberpunkification	Based	img190.png	Rare-Dioactive	-	Action	Power Up
+Slimecotta's Army	Based	img191.png	Rare-Dioactive	-	Action	Event
+A Poudrin	Based	img192.png	Inert	-	Action	Object
+Just Grilling	Based	img193.png	Unstable	-	Action	Action Card
+Razor Nuts	Based	img194.png	Inert	-	Action	Action Card
+SOAKED	Based	img195.png	Super Critical NucleaRare	-	Action	Action Card
+"""Triple 1"" Slot Machine"	Based	img196.png	Inert	-	Action	Action Card
+Garrote Squad	Based	img197.png	Rare-Dioactive	-	Action	Action Card
+Made In Taiwan Slimeoid Part	Based	img198.png	Inert	-	Action	Power Up
+Integer Overflow	Based	img199.png	Rare-Dioactive	-	Action	Action Card

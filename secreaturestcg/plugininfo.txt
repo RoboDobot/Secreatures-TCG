@@ -1,0 +1,42 @@
+<plugin>
+
+<playerstat><label>Slime</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Megaslimes</label><initialvalue>0</initialvalue></playerstat>
+
+<deckzone><label>Deck</label><gamezonetoloadto>Deck</gamezonetoloadto><shuffle>yes</shuffle></deckzone>
+<deckzone><label>Recipe Book</label><gamezonetoloadto>Recipe Book</gamezonetoloadto><shuffle>no</shuffle></deckzone>
+
+<gamezone><label>Hand</label><visibletoowner>yes</visibletoowner></gamezone>
+<gamezone><label>Deck</label><shuffle>yes</shuffle></gamezone>
+<gamezone><label>Recipe Book</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Sewerz</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+
+<phase><label>Main</label></phase>
+<phase><label>Combat</label></phase>
+<phase><label>Sacrifice</label></phase>
+
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Excavate</label><kind>DRAWCARDTOTABLE</kind></generalfunction>
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind></generalfunction>
+<generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind></generalfunction>
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind></generalfunction>
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
+<generalfunction><label>Roll D6</label><kind>ROLLD6</kind></generalfunction>
+<generalfunction><label>Roll D20</label><kind>ROLLD20</kind></generalfunction>
+<generalfunction><label>Spawn Card</label><kind>SPAWNCARD</kind></generalfunction>
+<generalfunction><label>Discard from the Bottom</label><kind>TRANSFERCARD</kind><sourcegamezone>Deck</sourcegamezone><sourceposition>bottom</sourceposition><destinationowner>table</destinationowner><destinationposition>facedown</destinationposition></generalfunction>
+
+<cardfunction><label>Ready</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Tap</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Flip</label><kind>TURNOVER</kind></cardfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>	
+<cardfunction><label>Moxie +1</label><kind>ADDCOUNTER</kind><color>red</color><textoverimagecolor>00FF00</textoverimagecolor><PositionX>.75</PositionX><PositionY>.39</PositionY></cardfunction>
+<cardfunction><label>Grit +1</label><kind>ADDCOUNTER</kind><color>yellow</color><textoverimagecolor>00FF00</textoverimagecolor><PositionX>.75</PositionX><PositionY>.24</PositionY></cardfunction>
+<cardfunction><label>Chutzpah +1</label><kind>ADDCOUNTER</kind><color>orange</color><textoverimagecolor>00FF00</textoverimagecolor><PositionX>.75</PositionX><PositionY>.10</PositionY></cardfunction>
+<cardfunction><label>Moxie -1</label><kind>ADDCOUNTER</kind><color>violet</color><textoverimagecolor>00FF00</textoverimagecolor><PositionX>.55</PositionX><PositionY>.39</PositionY></cardfunction>
+<cardfunction><label>Grit -1</label><kind>ADDCOUNTER</kind><color>white</color><textoverimagecolor>00FF00</textoverimagecolor><PositionX>.55</PositionX><PositionY>.24</PositionY></cardfunction>
+<cardfunction><label>Chutzpah -1</label><kind>ADDCOUNTER</kind><color>black</color><textoverimagecolor>00FF00</textoverimagecolor><PositionX>.55</PositionX><PositionY>.10</PositionY></cardfunction>
+<cardfunction><label>Add Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction></cardfunction>
+
+</plugin>

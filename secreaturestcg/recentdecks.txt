@@ -1,0 +1,3 @@
+RECENTDECK0:Rowdy_Fucker_Structure_Deck.dek
+RECENTDECK1:Cop_Killer_Structure_Deck.dek
+RECENTDECK2:test.dek
