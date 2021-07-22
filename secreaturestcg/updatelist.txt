@@ -5,8 +5,8 @@ plugins/secreaturestcg/packs/packdefinitions1.xml	https://raw.githubusercontent.
 plugins/secreaturestcg/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/setimages/general/cardback.png?token=AU5Y4KIE6YWDZNK45BUSD7DA7DRNK	157341
 
 CardImageURLs:
-Based/img0.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png
-Based/img1.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img1.png
+Based/img0.png	https://githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png
+Based/img1.png	https://githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img1.png
 
 
 
