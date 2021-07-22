@@ -3,10 +3,8 @@ plugins/secreaturestcg/plugininfo.txt	https://raw.githubusercontent.com/RoboDobo
 plugins/secreaturestcg/sets/carddata.txt	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/carddata.txt.txt	893467
 plugins/secreaturestcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/packs/packdefinitions1.xml	125674
 plugins/secreaturestcg/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/setimages/general/cardback.png	157341
-plugins/secreaturestcg/sets/setimages/Based/test.txt	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/test.txt	546734
-CardImageURLs:
-Based/img0.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png
-Based/img1.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img1.png
+plugins/secreaturestcg/sets/setimages/Based/img0.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png
+
 
 
 
