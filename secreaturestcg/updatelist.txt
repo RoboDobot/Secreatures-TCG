@@ -3,8 +3,8 @@ plugins/secreaturestcg/plugininfo.txt	https://raw.githubusercontent.com/RoboDobo
 plugins/secreaturestcg/sets/carddata.txt	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/carddata.txt.txt	989971
 plugins/secreaturestcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/packs/packdefinitions1.xml	87086
 plugins/secreaturestcg/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/setimages/general/cardback.png	139843
-plugins/secreaturestcg/Rulebook.docx	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/Rulebook.docx	-1533078
-plugins/secreaturestcg/sets/setimages/Based/img0.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png	0
+plugins/secreaturestcg/Rulebook.docx	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/Rulebook.docx	7856765
+plugins/secreaturestcg/sets/setimages/Based/img0.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png	9098390
 plugins/secreaturestcg/sets/setimages/Based/img1.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img1.png	1125723
 plugins/secreaturestcg/sets/setimages/Based/img2.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img2.png	974614
 plugins/secreaturestcg/sets/setimages/Based/img3.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img3.png	1522318
