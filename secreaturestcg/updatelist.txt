@@ -3,8 +3,8 @@ plugins/secreaturestcg/plugininfo.txt	https://raw.githubusercontent.com/RoboDobo
 plugins/secreaturestcg/sets/carddata.txt	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/carddata.txt.txt	989971
 plugins/secreaturestcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/packs/packdefinitions1.xml	87086
 plugins/secreaturestcg/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/setimages/general/cardback.png	139843
-plugins/secreaturestcg/Rulebook.docx	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/Rulebook.docx	7856765
-plugins/secreaturestcg/sets/setimages/Based/img0.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png	9098390
+plugins/secreaturestcg/Rulebook.docx	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/Rulebook.docx	-1518511
+plugins/secreaturestcg/sets/setimages/Based/img0.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img0.png	1023862
 plugins/secreaturestcg/sets/setimages/Based/img1.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img1.png	1125723
 plugins/secreaturestcg/sets/setimages/Based/img2.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img2.png	974614
 plugins/secreaturestcg/sets/setimages/Based/img3.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img3.png	1522318
@@ -17,8 +17,8 @@ plugins/secreaturestcg/sets/setimages/Based/img9.png	https://raw.githubuserconte
 plugins/secreaturestcg/sets/setimages/Based/img10.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img10.png	1432573
 plugins/secreaturestcg/sets/setimages/Based/img11.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img11.png	1340402
 plugins/secreaturestcg/sets/setimages/Based/img12.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img12.png	1539860
-plugins/secreaturestcg/sets/setimages/Based/img13.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img13.png	1487645
-plugins/secreaturestcg/sets/setimages/Based/img14.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img14.png	1489741
+plugins/secreaturestcg/sets/setimages/Based/img13.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img13.png	1489741
+plugins/secreaturestcg/sets/setimages/Based/img14.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img14.png	1487645
 plugins/secreaturestcg/sets/setimages/Based/img15.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img15.png	1002130
 plugins/secreaturestcg/sets/setimages/Based/img16.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img16.png	1390287
 plugins/secreaturestcg/sets/setimages/Based/img17.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img17.png	845288
@@ -86,7 +86,7 @@ plugins/secreaturestcg/sets/setimages/Based/img78.png	https://raw.githubusercont
 plugins/secreaturestcg/sets/setimages/Based/img79.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img79.png	1244643
 plugins/secreaturestcg/sets/setimages/Based/img80.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img80.png	1773020
 plugins/secreaturestcg/sets/setimages/Based/img81.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img81.png	1032521
-plugins/secreaturestcg/sets/setimages/Based/img82.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img82.png	1320265
+plugins/secreaturestcg/sets/setimages/Based/img82.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img82.png	1725602
 plugins/secreaturestcg/sets/setimages/Based/img83.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img83.png	1450279
 plugins/secreaturestcg/sets/setimages/Based/img84.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img84.png	1361082
 plugins/secreaturestcg/sets/setimages/Based/img85.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img85.png	1597765
@@ -154,7 +154,7 @@ plugins/secreaturestcg/sets/setimages/Based/img146.png	https://raw.githubusercon
 plugins/secreaturestcg/sets/setimages/Based/img147.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img147.png	685456
 plugins/secreaturestcg/sets/setimages/Based/img148.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img148.png	820617
 plugins/secreaturestcg/sets/setimages/Based/img149.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img149.png	857644
-plugins/secreaturestcg/sets/setimages/Based/img150.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img150.png	734570
+plugins/secreaturestcg/sets/setimages/Based/img150.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img150.png	1127123
 plugins/secreaturestcg/sets/setimages/Based/img151.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img151.png	895324
 plugins/secreaturestcg/sets/setimages/Based/img152.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img152.png	718422
 plugins/secreaturestcg/sets/setimages/Based/img153.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img153.png	909391
@@ -192,7 +192,7 @@ plugins/secreaturestcg/sets/setimages/Based/img184.png	https://raw.githubusercon
 plugins/secreaturestcg/sets/setimages/Based/img185.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img185.png	168281
 plugins/secreaturestcg/sets/setimages/Based/img186.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img186.png	927556
 plugins/secreaturestcg/sets/setimages/Based/img187.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img187.png	910920
-plugins/secreaturestcg/sets/setimages/Based/img188.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img188.png	1097631
+plugins/secreaturestcg/sets/setimages/Based/img188.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img188.png	1203762
 plugins/secreaturestcg/sets/setimages/Based/img189.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img189.png	894952
 plugins/secreaturestcg/sets/setimages/Based/img190.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img190.png	919384
 plugins/secreaturestcg/sets/setimages/Based/img191.png	https://raw.githubusercontent.com/RoboDobot/Secreatures-TCG/main/secreaturestcg/sets/Based/img191.png	1025794
